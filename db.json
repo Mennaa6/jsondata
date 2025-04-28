@@ -290,5 +290,6 @@
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
       }
     ]
-  }
+  },
+  "cartItems": [] 
 }

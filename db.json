@@ -291,5 +291,6 @@
       }
     ]
   },
-  "cartItems": [] 
+  "cartItems": [] ,
+  "wishlistItems": []
 }

@@ -8,15 +8,15 @@
         "category": "mens-shirts",
         "price": 29.99,
         "discountPercentage": 1.41,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 4.19,
         "stock": 44,
         "availabilityStatus": "In Stock",
-         "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
       },
       {
@@ -26,16 +26,16 @@
         "category": "mens-shirts",
         "price": 24.99,
         "discountPercentage": 12.6,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 4.95,
         "stock": 64,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png"
       },
       {
@@ -45,16 +45,16 @@
         "category": "mens-shirts",
         "price": 34.99,
         "discountPercentage": 17.53,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 3.66,
         "stock": 65,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
       },
       {
@@ -64,34 +64,35 @@
         "category": "mens-shirts",
         "price": 19.99,
         "discountPercentage": 8.65,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 4.62,
         "stock": 20,
 
         "availabilityStatus": "In Stock",
-         "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png"
-      },{
-         "id": 87,
-      "title": "Men Check Shirt",
-      "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
-      "category": "mens-shirts",
-      "price": 27.99,
-      "discountPercentage": 14.21,
-      "rating": 2.9,
-      "stock": 69,
-         "brand": "Urban Chic",
-          "dimensions": {
-        "width": 18.43,
-        "height": 6.96,
-        "depth": 20.73
       },
+      {
+        "id": 87,
+        "title": "Men Check Shirt",
+        "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+        "category": "mens-shirts",
+        "price": 27.99,
+        "discountPercentage": 14.21,
+        "rating": 2.9,
+        "stock": 69,
+        "brand": "Urban Chic",
+        "dimensions": {
+          "width": 18.43,
+          "height": 6.96,
+          "depth": 20.73
+        },
         "availabilityStatus": "In Stock",
-         "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png"
+        "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png"
       }
     ],
     "women": [
@@ -102,16 +103,16 @@
         "category": "womens-dresses",
         "price": 129.99,
         "discountPercentage": 5.86,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 4.77,
         "stock": 59,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/thumbnail.png"
       },
       {
@@ -121,16 +122,16 @@
         "category": "womens-dresses",
         "price": 89.99,
         "discountPercentage": 19.26,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 2.52,
         "stock": 59,
 
         "availabilityStatus": "In Stock",
-         "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
 
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png"
       },
@@ -141,16 +142,16 @@
         "category": "womens-dresses",
         "price": 79.99,
         "discountPercentage": 14.61,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 3,
         "stock": 67,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20With%20Black%20Skirt/thumbnail.png"
       },
       {
@@ -160,16 +161,16 @@
         "category": "womens-dresses",
         "price": 49.99,
         "discountPercentage": 9.81,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 2.92,
         "stock": 29,
 
         "availabilityStatus": "In Stock",
-         "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
 
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Dress%20Pea/thumbnail.png"
       },
@@ -180,16 +181,16 @@
         "category": "womens-dresses",
         "price": 179.99,
         "discountPercentage": 15.4,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 4.17,
         "stock": 15,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Marni%20Red%20&%20Black%20Suit/thumbnail.png"
       }
     ],
@@ -201,16 +202,16 @@
         "category": "sunglasses",
         "price": 29.99,
         "discountPercentage": 14.22,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 3.23,
         "stock": 100,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Black%20Sun%20Glasses/thumbnail.png"
       },
       {
@@ -220,16 +221,16 @@
         "category": "sunglasses",
         "price": 24.99,
         "discountPercentage": 15.67,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 2.99,
         "stock": 100,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Classic%20Sun%20Glasses/thumbnail.png"
       },
       {
@@ -239,16 +240,16 @@
         "category": "womens-bags",
         "price": 49.99,
         "discountPercentage": 5.24,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 3.37,
         "stock": 76,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Blue%20Women's%20Handbag/thumbnail.png"
       },
       {
@@ -258,16 +259,16 @@
         "category": "womens-watches",
         "price": 4999.99,
         "discountPercentage": 5.76,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 2.58,
         "stock": 85,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
       },
       {
@@ -277,20 +278,39 @@
         "category": "womens-watches",
         "price": 15999.99,
         "discountPercentage": 18.76,
-         "brand": "Fashion Trends",
+        "brand": "Fashion Trends",
         "rating": 3.41,
         "stock": 66,
 
         "availabilityStatus": "In Stock",
- "dimensions": {
-        "width": 17.25,
-        "height": 27.31,
-        "depth": 20.88
-      },
+        "dimensions": {
+          "width": 17.25,
+          "height": 27.31,
+          "depth": 20.88
+        },
         "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
       }
     ]
   },
-  "cartItems": [] ,
-  "wishlistItems": []
+  "orders": [
+    {
+      "id" : 1,
+      "address" : "Helwan, Egypt",
+      "items" : [86,87,154],
+      "shippingFee" : 55
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Ali",
+      "lastName": "Ahmed",
+      "email": "Ahemd@mail.com",
+      "phone": "+20 120 649 9981",
+      "wishlist": [191, 155, 83, 84],
+      "addresses": ["Helwan, Egypt"],
+      "payment" : "8123 3123 4567 9830",
+      "cartItems": []
+    }
+  ]
 }

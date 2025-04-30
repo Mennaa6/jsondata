@@ -296,8 +296,18 @@
     {
       "id" : 1,
       "address" : "Helwan, Egypt",
+      "status" : "shipped",
       "items" : [86,87,154],
-      "shippingFee" : 55
+      "shippingFee" : 55,
+      "date": "21 December 2024"
+    },
+    {
+      "id": 2,
+      "address": "Giza, Egypt",
+      "status": "pending",
+      "items": [83, 85],
+      "shippingFee": 80,
+      "date": "17 January 2025"
     }
   ],
   "users": [
